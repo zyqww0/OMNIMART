@@ -1,5 +1,9 @@
 # 📎 OMNIMART
 
+project link:
+https://omni-market-nest.lovable.app
+
+
 ## 📌 Project Overview
 OmniMart is a multi-vendor e-commerce platform that connects customers with different sellers in one place.
 It allows customers to browse, search, and purchase products online with ease.
